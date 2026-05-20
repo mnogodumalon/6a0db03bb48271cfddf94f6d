@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Allgemeine Eingabe": {
+      "placeholders_set": 3,
+      "defaults_keys": ["datum"],
+      "computed_keys": [],
+      "reason": "Reine Stammdaten mit Text und Erfassungsdatum, nichts berechenbar"
+    }
+  }
+}
